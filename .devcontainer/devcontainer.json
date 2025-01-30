@@ -1,6 +1,6 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/java:1-21-bullseye",
-  "service": "app",
+  	"image": "mcr.microsoft.com/devcontainers/java:1-21-bullseye",
+  	//"service": "app",
 	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 	"features": {
 		"ghcr.io/devcontainers/features/git:1": {
